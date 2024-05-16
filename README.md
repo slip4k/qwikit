@@ -17,10 +17,13 @@ The immediate goal is to add:
    - OAuth
    - Credentials
    - Webhooked for records creation
-4. Firebase Backend
+4. Supabase Backend
    - Database
+   - Storage
    - Etc...
 5. Stripe Payments
    - Loading
+6. PostHog Analytics
+   - Webhooked Live Analytics on display on dashboard
 
 ### Stay tuned...
